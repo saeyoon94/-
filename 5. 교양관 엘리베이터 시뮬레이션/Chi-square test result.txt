@@ -1,0 +1,7 @@
+H0 : Ui are IID U(0,1) random variables.
+H1 : Ui are not IID U(0,1) random variables.
+
+Test statistic : 8.0
+Critical value : 16.9189776046
+
+Do not reject H0 at a=0.05. There is no significant evidence to conclude that Ui are not IID U(0,1) random variables.
